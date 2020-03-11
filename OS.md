@@ -3,12 +3,12 @@
 **Components of a process state -**
 1. Process Identifier
 2. Memory Contents
-2.1. Code and data (static)
-2.2. Stack and heap (dynamic)
+	1. Code and data (static)
+	2. Stack and heap (dynamic)
 3. CPU context (registers)
-3.1. Program Counter
-3.2. Stack pointer
-3.3. Current operands
+	1. Program Counter
+	2. Stack pointer
+	3. Current operands
 4. File descriptors
 
 ## Creation of a process
